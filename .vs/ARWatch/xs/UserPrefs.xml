@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{C650BE8D-5627-B7F0-C0C8-2F50D206220C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/SceneARWatch.cs">
+    <Files>
+      <File FileName="Assets/Scenes/SceneARWatch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/MainMenu.cs" Line="13" Column="3" />
+      <File FileName="Assets/Manomotion/Scripts/MainMenu/ManomotionUIManagment.cs" />
+      <File FileName="Assets/ActivateAnalogFace.cs" />
+      <File FileName="Assets/AnalogClockFace.cs" />
+      <File FileName="Assets/ScriptCurrentDate.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARWatch" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Manomotion" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MainMenu" expanded="True" />
+                  <Node name="ManoVisualization" expanded="True" />
+                </Node>
+                <Node name="Sprites" expanded="True">
+                  <Node name="UI Buttons" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Plugins" expanded="True" />
+              <Node name="Scenes" expanded="True">
+                <Node name="SceneARWatch.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aeaeef87-ee48-4fbb-bd7f-fadde35c8fd7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
