@@ -145,9 +145,9 @@ public class SceneARWatch : MonoBehaviour
     /// <param name="front">bool to set the values.</param>
     private void ActivateWatchParts(bool front)
     {
-        ARWatch[0].SetActive(front);
-        ARWatch[1].SetActive(front);
-        ARWatch[2].SetActive(!front);
+        watchPrefabParts[0].SetActive(front);
+        watchPrefabParts[1].SetActive(front);
+        watchPrefabParts[2].SetActive(!front);
     }
 
     /// <summary>
